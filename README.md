@@ -1,7 +1,6 @@
 # dash_money
 
-A new Flutter project.
-
+Flutter codebase for a decentralized P2P marketplace built on the Dash blockchain
 ## Getting Started
 
 This project is a starting point for a Flutter application.
